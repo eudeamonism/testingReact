@@ -5,7 +5,7 @@ test('Checks to see if Hello World is printed', () => {
 	//Arrange
 	render(<Greeting />);
 
-	//Act
+	//Act 2
     // ... nothing
 
     //Assert
